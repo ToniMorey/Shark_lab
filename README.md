@@ -75,17 +75,20 @@ Para ello, consultaremos la variable "Injury" que nos ofrece detalles sobre la p
 ![Plot](images/barplot_injury.png) \
 Volvemos a representar en un gráfico de barras las partes del cuerpo que más sufren en los ataques de tiburón. Las piernas, en este caso, van por delante con bastante diferencia respecto a las demás. 
 
-Comprobamos de igual manera la mortalidad porcentual de estas variables: \
-![Plot](images/Carplot_injury_percent.png) \
+Comprobamos de igual manera la mortalidad porcentual de estas variables: \ 
+
+![Plot](images/Barplot_injury_percent.png) \
 Aunque acumulen la mayoría de casos, un ataque a las piernas no suele ser mortal así como tampoco lo suele ser un ataque en los brazos. \
 Las personas que han sufrido ataques en el torso no suelen correr la misma suerte.
 
-Hago el mismo ejercicio pero teniendo solo en cuenta los casos de deportes de tabla: \
+Hago el mismo ejercicio pero teniendo solo en cuenta los casos de deportes de tabla: \ 
+
 ![Plot](images/Catplot_deportes_tabla.png) \
 Es interesante ver como, para los deportes de tabla, tienen una gran cantidad de ataques donde no se produce ninguna lesión, así como también tienen una gran cantidad de ataques donde hay lesiones en las piernas. 
 
-Para el caso particular de Australia, parece que la tendencia es similar aunque los ataques a las piernas parecen disminur: \
-![Plot](images/Catplot_deportes_tabla_Australia.png) \
+Para el caso particular de Australia, parece que la tendencia es similar aunque los ataques a las piernas parecen disminur: \ 
+
+![Plot](images/Catplot_deportes_tabla_australia.png) 
 
 
 **¿Cómo se podría explicar este suceso?**\
