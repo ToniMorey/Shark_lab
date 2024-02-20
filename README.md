@@ -1,5 +1,5 @@
 # Los tiburones son nuestros amigos 
-El otro día estaba barajando las posibilidades las posibilidades de ir de viaje a Australia, me gusta mucho practicar deportes de tabla (tanto en tierra como en el mar) así que decidí consultarlo con la familia. \
+El otro día estaba barajando las posibilidades de ir de viaje a Australia, me gusta mucho practicar deportes de tabla (tanto en tierra como en el mar) así que decidí consultarlo con la familia. \
 Mala mi suerte que, justo el día anterior, entraba en programación un documental sobre tiburones en La Dos. Así que tengo que convencerles de alguna manera que puedo hacer el viaje y volver sano y salvo de una pieza. 
 
 Para ello, quiero demostrarles 3 hipótesis diferentes para que disminuir su preocupación: 
